@@ -6,7 +6,7 @@ services:
     branch: main
     rootDir: .
     dockerCommand: bash start.sh
-    repo: https://github.com/TheRepthon/Deploy.git
+    repo: https://github.com/baqir-batch/Deploy.git
     region: frankfurt
     envVars:
       - key: API_ID
